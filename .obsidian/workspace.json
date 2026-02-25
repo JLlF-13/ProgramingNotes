@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "594ef4da180f7ec8",
+    "type": "split",
+    "children": [
+      {
+        "id": "d01d4768c5bda3b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "778dfbfc1305fbe3",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b893dbf53092529e",
+    "type": "split",
+    "children": [
+      {
+        "id": "ef41897fe71f0728",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df1f50919aa81a26",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "aabc78fb573b7463",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ef9b27696368f006",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "9d41773bc2f0aa1f",
+    "type": "split",
+    "children": [
+      {
+        "id": "30b0495e82a07b48",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c2c3bccdf342ef3a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Data Visualization & BI Tools/Data Visualization & BI Tools.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Data Visualization & BI Tools"
+            }
+          },
+          {
+            "id": "fa060e0c5886093d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "8f3770204bc1424e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "71e1e8ebebac13f3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "7b773d8f5e2799aa",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "778dfbfc1305fbe3",
+  "lastOpenFiles": [
+    "Programing Languages/Kotlin/Kotlin Documentation/Function.md",
+    "Programing Languages/Kotlin/Kotlin Documentation/Input.md",
+    "Programing Languages/Python.zip",
+    "Programing Languages/Kotlin/Kotlin Documentation/Object-Oriented Programming.md",
+    "Programing Languages/Kotlin/Kotlin Documentation/Loops.md",
+    "Programing Languages/Kotlin/Kotlin Documentation/Data containers.md",
+    "Programing Languages/Kotlin/Kotlin.md",
+    "Programing Languages/Kotlin/Kotlin Documentation/Comments.md",
+    "Programing Languages/Kotlin/Kotlin Documentation/Variable & Types.md",
+    "Programing Languages/Kotlin/Kotlin Documentation/Conditional.md",
+    "Programing Languages/Powershell/Commands.md",
+    "Programing Languages/Powershell/Powershell.md",
+    "Programing Languages/Python/Python Documentation/Data Containers.md",
+    "Programing Languages/Programing languages.md",
+    "Programing Languages/Java/Java Packages/java.sql.md",
+    "Programing Languages/Java/Java Documentation/Imports & Packages.md",
+    "Programing Languages/Others/XML.md",
+    "Databases/Databases.md",
+    "Programing Languages/Others/Using_XML/XML with Android Studio.md",
+    "Programing Languages/Others/Using_XML",
+    "Programing Languages/Java/Java Packages/java.io.md",
+    "Programing Languages/Java/Java Packages/java.xml.md",
+    "Programing Languages/Java/Java Packages/com.google.gson.md",
+    "Programing Languages/Java/Java Packages/java.lang.md",
+    "Technologies/Docker/Commands/Docker compose.md",
+    "Technologies/Docker/Commands/Image management.md",
+    "Technologies/Docker/Commands/Container management.md",
+    "Technologies/Docker/Commands",
+    "Technologies/Docker",
+    "Programing Languages/C Sharp/C Sharp Documentation",
+    "Programing Languages/C Sharp",
+    "Programing Languages/Java/Java Packages",
+    "IDEs",
+    "Data Visualization & BI Tools",
+    "Programing Languages/Kotlin/Kotlin Documentation",
+    "Sense títol.canvas"
+  ]
+}

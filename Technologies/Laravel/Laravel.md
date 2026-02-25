@@ -1,0 +1,1 @@
+With laravel we usually use Filament this is a powerfull plugin for the easy management of the database 
