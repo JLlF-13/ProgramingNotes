@@ -5,7 +5,13 @@ The official IDE for Android app development, built on IntelliJ IDEA. It include
 Android Studio is a bit different from other IDEs because it's mainly focused on building Android apps. Its tools, layout editor, emulator, and SDK integrations are all tailored for mobile development.
 
 ---
+### Use Android Studio
 
+[[Imports & Packages__]]
+[[Binding]] - Very Important
+[[Layout and Styles]]
+[[Kotlin Code]]
+[[Connect to DDBB]]
 ### Recommended Plugins
 
 - **SQLDelight** – A modern SQLite library with type-safe queries and code generation.

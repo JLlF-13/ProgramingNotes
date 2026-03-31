@@ -153,6 +153,7 @@ This are thing that are unique o
 [[Java]] - `.java`
 [[C Sharp]] - `.cs`
 [[Kotlin]] - `.kt`
+[[Swift]] - ```.swift```
 ### Maybe not a programing language at all but also important to know:
 
 [[Others]]

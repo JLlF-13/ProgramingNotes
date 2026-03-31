@@ -44,3 +44,5 @@ Also known as Extensible Markup Language
 ### Using XML
 
 [[XML with Android Studio]]
+[[XPath]]
+[[XQuery]]

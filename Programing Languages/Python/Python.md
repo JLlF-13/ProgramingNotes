@@ -1,5 +1,5 @@
 
- Official Documentation  --> [⚪](https://www.python.org)
+Official Documentation  --> [⚪](https://www.python.org)
 
 [[Programing Languages/Python/Python Documentation/Printing Text|Printing Text]]
 [[Programing Languages/Python/Python Documentation/Data Container Files/Variables & Types|Variables & Types]]

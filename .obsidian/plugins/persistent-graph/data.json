@@ -2,903 +2,1028 @@
   "nodePositions": [
     {
       "id": "Data Visualization & BI Tools/BL Tools.md",
-      "x": 473.2489013671875,
-      "y": -190.47705078125
+      "x": 723.031982421875,
+      "y": 83.26073455810547
     },
     {
       "id": "Data Visualization & BI Tools/CRMs.md",
-      "x": 443.8834533691406,
-      "y": -413.85125732421875
+      "x": 907.9585571289062,
+      "y": 93.51393127441406
     },
     {
       "id": "Data Visualization & BI Tools/Data Visualization & BI Tools.md",
-      "x": 415.5992126464844,
-      "y": -297.2377624511719
+      "x": 819.7193603515625,
+      "y": 12.195816040039062
     },
     {
       "id": "Data Visualization & BI Tools/ERPs.md",
-      "x": 537.93310546875,
-      "y": -291.5464782714844
+      "x": 808.8223876953125,
+      "y": 167.16358947753906
     },
     {
       "id": "Databases/Databases.md",
-      "x": 765.5714111328125,
-      "y": -521.453125
+      "x": 1085.9283447265625,
+      "y": -207.53067016601562
     },
     {
       "id": "Databases/NoSQL Databases.md",
-      "x": 1104.4801025390625,
-      "y": -466.08148193359375
-    },
-    {
-      "id": "Databases/Relational Databases (SQL).md",
-      "x": 955.30224609375,
-      "y": -847.990234375
-    },
-    {
-      "id": "GitHub/SSH Key.md",
-      "x": 877.9845581054688,
-      "y": 129.0910186767578
-    },
-    {
-      "id": "GitHub/GitHub.md",
-      "x": 780.604736328125,
-      "y": 58.97871780395508
-    },
-    {
-      "id": "GitHub/Commands.md",
-      "x": 1235.5225830078125,
-      "y": 226.94869995117188
-    },
-    {
-      "id": "IDEs/Android Studio.md",
-      "x": 904.0224609375,
-      "y": -102.80712127685547
-    },
-    {
-      "id": "IDEs/Visual Studio Code.md",
-      "x": 1012.9935302734375,
-      "y": -160.17523193359375
-    },
-    {
-      "id": "IDEs/IDEs.md",
-      "x": 874.5921020507812,
-      "y": -219.13438415527344
-    },
-    {
-      "id": "IntgelliJ",
-      "x": 982.32177734375,
-      "y": -276.1880187988281
-    },
-    {
-      "id": "Eclipse",
-      "x": 865.4094848632812,
-      "y": -338.77801513671875
-    },
-    {
-      "id": "XCode",
-      "x": 755.630126953125,
-      "y": -203.45077514648438
-    },
-    {
-      "id": "Programing Languages/Programing languages.md",
-      "x": -94.14543914794922,
-      "y": 459.8624267578125
-    },
-    {
-      "id": "Technologies/Technologies.md",
-      "x": 385.327880859375,
-      "y": -928.4359130859375
+      "x": 1281.6346435546875,
+      "y": -110.27009582519531
     },
     {
       "id": "Databases/NoSQL Documentation/MongoDB Basics.md",
-      "x": 1180.0433349609375,
-      "y": -354.299072265625
+      "x": 1286.8779296875,
+      "y": 9.611083030700684
     },
     {
       "id": "Databases/NoSQL Documentation/NoSQL DataTypes.md",
-      "x": 1201.17236328125,
-      "y": -537.146484375
+      "x": 1395.1053466796875,
+      "y": -149.3087615966797
     },
     {
       "id": "Databases/NoSQL Documentation/NoSQL Types.md",
-      "x": 1267.101318359375,
-      "y": -436.8814392089844
+      "x": 1403.14013671875,
+      "y": -29.579002380371094
+    },
+    {
+      "id": "Databases/Relational Databases (SQL).md",
+      "x": 1302.57958984375,
+      "y": -538.0463256835938
     },
     {
       "id": "Databases/SQL Documentation/SQL Core Concepts.md",
-      "x": 927.6793212890625,
-      "y": -1014.7677612304688
+      "x": 1374.6436767578125,
+      "y": -656.5120239257812
     },
     {
       "id": "Databases/SQL Documentation/SQL Data Types.md",
-      "x": 852.5797729492188,
-      "y": -921.1790771484375
+      "x": 1268.949462890625,
+      "y": -713.3175659179688
     },
     {
       "id": "Databases/SQL Documentation/SQL Functions.md",
-      "x": 1056.350341796875,
-      "y": -755.2364501953125
+      "x": 1288.354248046875,
+      "y": -418.5556945800781
     },
     {
       "id": "Databases/SQL Documentation/SQL Joins.md",
-      "x": 1109.26416015625,
-      "y": -862.9340209960938
+      "x": 1407.1978759765625,
+      "y": -435.15716552734375
     },
     {
       "id": "Databases/SQL Documentation/SQL Syntax & Clauses.md",
-      "x": 843.5798950195312,
-      "y": -801.5184326171875
+      "x": 1199.1854248046875,
+      "y": -615.6867065429688
     },
     {
       "id": "Databases/SQL Documentation/SQL Table Creation.md",
-      "x": 939.2412719726562,
-      "y": -729.0704345703125
+      "x": 1190.1785888671875,
+      "y": -496.0264892578125
     },
     {
       "id": "Databases/SQL Documentation/SQL Views.md",
-      "x": 1031.1767578125,
-      "y": -954.0468139648438
+      "x": 1433.866455078125,
+      "y": -552.153076171875
     },
     {
       "id": "GitHub/Commands Files/Advanced utilities.md",
-      "x": 1344.3916015625,
-      "y": 303.5682678222656
+      "x": 1386.474853515625,
+      "y": 552.9793090820312
     },
     {
       "id": "GitHub/Commands Files/Branches.md",
-      "x": 1369.8399658203125,
-      "y": 186.30715942382812
+      "x": 1428.4747314453125,
+      "y": 440.5779113769531
     },
     {
       "id": "GitHub/Commands Files/Daily Development.md",
-      "x": 1267.2142333984375,
-      "y": 395.44775390625
+      "x": 1301.9815673828125,
+      "y": 638.1788330078125
     },
     {
       "id": "GitHub/Commands Files/Integration and colaboration.md",
-      "x": 1308.3717041015625,
-      "y": 83.25200653076172
+      "x": 1358.647216796875,
+      "y": 342.9931945800781
     },
     {
       "id": "GitHub/Commands Files/Recovery and cleaning.md",
-      "x": 1166.0233154296875,
-      "y": 330.956298828125
-    },
-    {
-      "id": "GitHub/Commands Files/Tags.md",
-      "x": 1192.618408203125,
-      "y": 114.88184356689453
+      "x": 1191.4959716796875,
+      "y": 591.36572265625
     },
     {
       "id": "GitHub/Commands Files/Start.md",
-      "x": 1115.6251220703125,
-      "y": 222.05447387695312
+      "x": 1169.8294677734375,
+      "y": 473.34130859375
     },
     {
-      "id": "Programing Languages/Bash/Bash.md",
-      "x": -40.69890213012695,
-      "y": 897.5208129882812
+      "id": "GitHub/Commands Files/Tags.md",
+      "x": 1241.298828125,
+      "y": 368.07037353515625
     },
     {
-      "id": "Programing Languages/Bash/Commands.md",
-      "x": -158.01954650878906,
-      "y": 922.686767578125
+      "id": "GitHub/Commands.md",
+      "x": 1289.744873046875,
+      "y": 477.8511657714844
     },
     {
-      "id": "Programing Languages/Java/Java.md",
-      "x": -144.0991668701172,
-      "y": -376.25189208984375
+      "id": "GitHub/GitHub.md",
+      "x": 1042.974365234375,
+      "y": 153.1426544189453
     },
     {
-      "id": "Programing Languages/C Sharp/C Sharp.md",
-      "x": -288.17620849609375,
-      "y": 416.0165100097656
+      "id": "GitHub/SSH Key.md",
+      "x": 1052.9140625,
+      "y": 272.7193298339844
     },
     {
-      "id": "Programing Languages/JavaScript/JavaScript.md",
-      "x": 439.78436279296875,
-      "y": 658.3675537109375
+      "id": "IDEs/Android Studio/Android Studio.md",
+      "x": 613.2210083007812,
+      "y": -354.6014404296875
     },
     {
-      "id": "Programing Languages/JavaScript/Touch Events.md",
-      "x": 886.3681030273438,
-      "y": 747.9830932617188
+      "id": "Imports & Packages__",
+      "x": 679.974853515625,
+      "y": -454.3167419433594
     },
     {
-      "id": "Programing Languages/Powershell/Commands.md",
-      "x": -206.25807189941406,
-      "y": 40.77585220336914
+      "id": "Binding",
+      "x": 535.5567626953125,
+      "y": -256.009765625
     },
     {
-      "id": "Programing Languages/Powershell/Powershell.md",
-      "x": -303.3580627441406,
-      "y": 111.26972961425781
+      "id": "Layout and Styles",
+      "x": 670.673095703125,
+      "y": -249.2501220703125
     },
     {
-      "id": "Programing Languages/Kotlin/Kotlin.md",
-      "x": 118.7049789428711,
-      "y": 321.6206970214844
+      "id": "Kotlin Code",
+      "x": 494.1871643066406,
+      "y": -371.52459716796875
     },
     {
-      "id": "Programing Languages/Others/CSS.md",
-      "x": -971.8939208984375,
-      "y": -527.0223388671875
+      "id": "Connect to DDBB",
+      "x": 563.2683715820312,
+      "y": -482.2247009277344
     },
     {
-      "id": "Programing Languages/Others/HTML.md",
-      "x": -1009.8348999023438,
-      "y": 281.85638427734375
+      "id": "IDEs/IDEs.md",
+      "x": 811.7548828125,
+      "y": -457.8055114746094
     },
     {
-      "id": "Programing Languages/Others/JSON.md",
-      "x": -837.1748657226562,
-      "y": 40.99691390991211
+      "id": "IntgelliJ",
+      "x": 941.5401611328125,
+      "y": -404.1222229003906
     },
     {
-      "id": "Programing Languages/Others/MarkDown.md",
-      "x": -1239.6834716796875,
-      "y": -261.581787109375
+      "id": "Eclipse",
+      "x": 899.7139892578125,
+      "y": -539.4264526367188
     },
     {
-      "id": "Programing Languages/Others/Others.md",
-      "x": -871.0625,
-      "y": -74.10797882080078
+      "id": "IDEs/Visual Studio Code.md",
+      "x": 845.7908325195312,
+      "y": -331.7955017089844
     },
     {
-      "id": "Programing Languages/Others/XML.md",
-      "x": -751.8043212890625,
-      "y": -92.76765441894531
+      "id": "IDEs/XCode/Assets & Resources.md",
+      "x": 973.6116943359375,
+      "y": -915.8779296875
     },
     {
-      "id": "Programing Languages/PHP/PHP.md",
-      "x": 454.072265625,
-      "y": 345.05230712890625
+      "id": "IDEs/XCode/Debugging & Instruments.md",
+      "x": 746.53076171875,
+      "y": -870.7044067382812
     },
     {
-      "id": "Programing Languages/Python/Python.md",
-      "x": 283.7467041015625,
-      "y": 1195.4180908203125
+      "id": "IDEs/XCode/Interface Builder.md",
+      "x": 855.4512939453125,
+      "y": -1063.5145263671875
     },
     {
-      "id": "Technologies/Django/DJANGO.md",
-      "x": 387.302978515625,
-      "y": -1048.4188232421875
+      "id": "IDEs/XCode/Networking & APIs.md",
+      "x": 972.220947265625,
+      "y": -1035.8675537109375
     },
     {
-      "id": "Programing Languages/Verse/Verse.md",
-      "x": -402.4104309082031,
-      "y": 901.8583374023438
+      "id": "IDEs/XCode/Project Structure.md",
+      "x": 879.23681640625,
+      "y": -829.5230102539062
     },
     {
-      "id": "Technologies/Docker/Docker.md",
-      "x": 424.458740234375,
-      "y": -811.8695678710938
+      "id": "IDEs/XCode/SwiftUI.md",
+      "x": 733.3031005859375,
+      "y": -992.46337890625
     },
     {
-      "id": "Technologies/Electron/CRUD with Electron.md",
-      "x": 346.1656188964844,
-      "y": -1330.102294921875
+      "id": "IDEs/XCode/UI Components.md",
+      "x": 706.1640014648438,
+      "y": -1204.6602783203125
     },
     {
-      "id": "Technologies/Electron/Electron.md",
-      "x": 410.4667053222656,
-      "y": -1223.162353515625
+      "id": "IDEs/XCode/UI Components/Basic Components.md",
+      "x": 594.0097045898438,
+      "y": -1248.8214111328125
     },
     {
-      "id": "Technologies/Electron/Generate a .exe.md",
-      "x": 493.002197265625,
-      "y": -1312.4149169921875
+      "id": "IDEs/XCode/UI Components/Containers.md",
+      "x": 789.4935302734375,
+      "y": -1291.008056640625
     },
     {
-      "id": "Technologies/Flask/Flask.md",
-      "x": 279.28448486328125,
-      "y": -984.598388671875
+      "id": "IDEs/XCode/UI Components/Input Controlers.md",
+      "x": 669.0584716796875,
+      "y": -1342.4566650390625
     },
     {
-      "id": "Technologies/Laravel/Laravel.md",
-      "x": 507.0555725097656,
-      "y": -1040.7291259765625
-    },
-    {
-      "id": "Technologies/Node/NODE.md",
-      "x": 519.1801147460938,
-      "y": -921.3458251953125
-    },
-    {
-      "id": "Technologies/React/Hooks.md",
-      "x": -22.704172134399414,
-      "y": -1159.3399658203125
-    },
-    {
-      "id": "Technologies/React/Project Structure.md",
-      "x": -61.0802001953125,
-      "y": -1385.8486328125
-    },
-    {
-      "id": "Technologies/React/React.md",
-      "x": 134.75714111328125,
-      "y": -1101.88525390625
-    },
-    {
-      "id": "Technologies/React/React Essentials.md",
-      "x": -100.32856750488281,
-      "y": -1250.8363037109375
-    },
-    {
-      "id": "Styling",
-      "x": -332.2129821777344,
-      "y": -1199.4935302734375
-    },
-    {
-      "id": "State Management",
-      "x": -219.97007751464844,
-      "y": -1241.9146728515625
-    },
-    {
-      "id": "Data Fetching",
-      "x": -178.5891876220703,
-      "y": -1361.5560302734375
-    },
-    {
-      "id": "Testing",
-      "x": -239.33956909179688,
-      "y": -1123.49560546875
-    },
-    {
-      "id": "Dev tools",
-      "x": 12.67133617401123,
-      "y": -1291.1923828125
-    },
-    {
-      "id": "Technologies/React/Routing.md",
-      "x": -123.11793518066406,
-      "y": -1093.6458740234375
+      "id": "IDEs/XCode/XCode.md",
+      "x": 843.5914306640625,
+      "y": -944.1035766601562
     },
     {
       "id": "Programing Languages/Bash/Bash Documentation/Comments.md",
-      "x": -100.25151062011719,
-      "y": 1035.8189697265625
+      "x": -60.19659423828125,
+      "y": 453.6181640625
     },
     {
       "id": "Programing Languages/Bash/Bash Documentation/Functions.md",
-      "x": 78.92887115478516,
-      "y": 888.2257690429688
+      "x": -18.002243041992188,
+      "y": 249.14111328125
     },
     {
       "id": "Programing Languages/Bash/Bash Documentation/Loops.md",
-      "x": 15.643754959106445,
-      "y": 1004.7097778320312
+      "x": 26.891204833984375,
+      "y": 371.0644226074219
     },
     {
       "id": "Programing Languages/Bash/Bash Documentation/Printing Text.md",
-      "x": -74.12657928466797,
-      "y": 782.281982421875
+      "x": -215.97698974609375,
+      "y": 363.3642883300781
     },
     {
-      "id": "Programing Languages/Java/Java Documentation/Comments.md",
-      "x": -64.85417175292969,
-      "y": -511.9501037597656
+      "id": "Programing Languages/Bash/Bash.md",
+      "x": -98.68403625488281,
+      "y": 338.0296630859375
     },
     {
-      "id": "Programing Languages/Java/Java Documentation/Conditional.md",
-      "x": -3.097360849380493,
-      "y": -409.0735778808594
-    },
-    {
-      "id": "Programing Languages/Java/Java Documentation/Functions.md",
-      "x": -144.05450439453125,
-      "y": -256.2571105957031
-    },
-    {
-      "id": "Programing Languages/Java/Java Documentation/Imports & Packages.md",
-      "x": -460.2596130371094,
-      "y": -662.7161865234375
-    },
-    {
-      "id": "Programing Languages/Java/Java Documentation/Loops.md",
-      "x": -255.9843292236328,
-      "y": -419.6379089355469
-    },
-    {
-      "id": "Programing Languages/Java/Java Documentation/Printing Text.md",
-      "x": -259.3840637207031,
-      "y": -299.69342041015625
-    },
-    {
-      "id": "Programing Languages/Java/Java Documentation/Try...Catch.md",
-      "x": -29.510784149169922,
-      "y": -292.02325439453125
-    },
-    {
-      "id": "Programing Languages/Java/Java Documentation/Variables & Types.md",
-      "x": -184.76785278320312,
-      "y": -516.2125244140625
-    },
-    {
-      "id": "Programing Languages/Java/Java Packages/com.google.gson.md",
-      "x": -460.8636474609375,
-      "y": -542.7194213867188
-    },
-    {
-      "id": "Programing Languages/Java/Java Packages/java.io.md",
-      "x": -344.70166015625,
-      "y": -695.0477905273438
-    },
-    {
-      "id": "Programing Languages/Java/Java Packages/java.lang.md",
-      "x": -572.5841674804688,
-      "y": -704.9389038085938
-    },
-    {
-      "id": "Programing Languages/Java/Java Packages/java.sql.md",
-      "x": -573.1863403320312,
-      "y": -584.9450073242188
-    },
-    {
-      "id": "Programing Languages/Java/Java Packages/java.util.md",
-      "x": -527.37158203125,
-      "y": -816.088623046875
-    },
-    {
-      "id": "Programing Languages/Java/Java Packages/java.xml.md",
-      "x": -409.0108642578125,
-      "y": -796.3552856445312
-    },
-    {
-      "id": "Programing Languages/JavaScript/HTML Enchance Files/DOM Element Interaction.md",
-      "x": 997.0883178710938,
-      "y": 701.7186279296875
-    },
-    {
-      "id": "Programing Languages/JavaScript/HTML Enchance Files/Animations.md",
-      "x": 968.861328125,
-      "y": 585.0913696289062
-    },
-    {
-      "id": "Programing Languages/JavaScript/HTML Enchance Files/HTML Enchance.md",
-      "x": 834.0559692382812,
-      "y": 639.9921264648438
-    },
-    {
-      "id": "Programing Languages/JavaScript/HTML Enchance Files/Keyboard Events.md",
-      "x": 865.471923828125,
-      "y": 524.1802978515625
-    },
-    {
-      "id": "Programing Languages/C Sharp/C Sharp Documentation/Conditional.md",
-      "x": -375.6313781738281,
-      "y": 333.8609313964844
+      "id": "Programing Languages/Bash/Commands.md",
+      "x": -177.86285400390625,
+      "y": 477.1501770019531
     },
     {
       "id": "Programing Languages/C Sharp/C Sharp Documentation/Comments.md",
-      "x": -469.6556091308594,
-      "y": 408.42108154296875
+      "x": 349.3392333984375,
+      "y": 117.54997253417969
     },
     {
-      "id": "Programing Languages/C Sharp/C Sharp Documentation/Printing Text.md",
-      "x": -279.3004455566406,
-      "y": 535.6802368164062
-    },
-    {
-      "id": "Programing Languages/JavaScript/JavaScript Documentation/Comments.md",
-      "x": 408.711669921875,
-      "y": 790.5903930664062
-    },
-    {
-      "id": "Programing Languages/JavaScript/JavaScript Documentation/Functions.md",
-      "x": 327.94195556640625,
-      "y": 701.8442993164062
-    },
-    {
-      "id": "Programing Languages/JavaScript/JavaScript Documentation/Loops.md",
-      "x": 559.744384765625,
-      "y": 655.3546752929688
+      "id": "Programing Languages/C Sharp/C Sharp Documentation/Conditional.md",
+      "x": 395.87957763671875,
+      "y": 228.14993286132812
     },
     {
       "id": "Programing Languages/C Sharp/C Sharp Documentation/Loops.md",
-      "x": -395.6443786621094,
-      "y": 502.875244140625
+      "x": 232.89208984375,
+      "y": 88.59015655517578
+    },
+    {
+      "id": "Programing Languages/C Sharp/C Sharp Documentation/Printing Text.md",
+      "x": 296.1889343261719,
+      "y": 294.9392395019531
+    },
+    {
+      "id": "Programing Languages/C Sharp/C Sharp.md",
+      "x": 214.38623046875,
+      "y": 207.1475830078125
+    },
+    {
+      "id": "Programing Languages/Java/Java Documentation/Comments.md",
+      "x": -507.7427062988281,
+      "y": -810.9596557617188
+    },
+    {
+      "id": "Programing Languages/Java/Java Documentation/Conditional.md",
+      "x": -405.1593017578125,
+      "y": -748.7109375
+    },
+    {
+      "id": "Programing Languages/Java/Java Documentation/Functions.md",
+      "x": -499.4842529296875,
+      "y": -550.6419067382812
+    },
+    {
+      "id": "Programing Languages/Java/Java Documentation/Imports & Packages.md",
+      "x": -797.623779296875,
+      "y": -1090.7808837890625
+    },
+    {
+      "id": "Programing Languages/Java/Java Documentation/Loops.md",
+      "x": -687.89892578125,
+      "y": -663.7332153320312
+    },
+    {
+      "id": "Programing Languages/Java/Java Documentation/Printing Text.md",
+      "x": -618.5172119140625,
+      "y": -565.830810546875
+    },
+    {
+      "id": "Programing Languages/Java/Java Documentation/Try...Catch.md",
+      "x": -408.3925476074219,
+      "y": -628.75927734375
+    },
+    {
+      "id": "Programing Languages/Java/Java Documentation/Variables & Types.md",
+      "x": -616.4356079101562,
+      "y": -760.1265258789062
+    },
+    {
+      "id": "Programing Languages/Java/Java Packages/com.google.gson.md",
+      "x": -766.0570678710938,
+      "y": -975.014892578125
+    },
+    {
+      "id": "Programing Languages/Java/Java Packages/java.io.md",
+      "x": -678.2529907226562,
+      "y": -1103.0391845703125
+    },
+    {
+      "id": "Programing Languages/Java/Java Packages/java.lang.md",
+      "x": -930.5724487304688,
+      "y": -1113.74462890625
+    },
+    {
+      "id": "Programing Languages/Java/Java Packages/java.sql.md",
+      "x": -886.978515625,
+      "y": -1001.94482421875
+    },
+    {
+      "id": "Programing Languages/Java/Java Packages/java.util.md",
+      "x": -851.8418579101562,
+      "y": -1204.3046875
+    },
+    {
+      "id": "Programing Languages/Java/Java Packages/java.xml.md",
+      "x": -732.1013793945312,
+      "y": -1212.171630859375
+    },
+    {
+      "id": "Programing Languages/Java/Java.md",
+      "x": -533.385986328125,
+      "y": -665.7494506835938
+    },
+    {
+      "id": "Programing Languages/JavaScript/HTML Enchance Files/Animations.md",
+      "x": 755.8945922851562,
+      "y": 572.2005004882812
+    },
+    {
+      "id": "Programing Languages/JavaScript/HTML Enchance Files/DOM Element Interaction.md",
+      "x": 772.4482421875,
+      "y": 691.04736328125
+    },
+    {
+      "id": "Programing Languages/JavaScript/HTML Enchance Files/HTML Enchance.md",
+      "x": 611.9645385742188,
+      "y": 631.5576782226562
+    },
+    {
+      "id": "Programing Languages/JavaScript/HTML Enchance Files/Keyboard Events.md",
+      "x": 649.1121215820312,
+      "y": 517.4585571289062
+    },
+    {
+      "id": "Programing Languages/JavaScript/JavaScript Documentation/Comments.md",
+      "x": 282.3328552246094,
+      "y": 691.674560546875
+    },
+    {
+      "id": "Programing Languages/JavaScript/JavaScript Documentation/Functions.md",
+      "x": 162.7683868408203,
+      "y": 681.4661254882812
+    },
+    {
+      "id": "Programing Languages/JavaScript/JavaScript Documentation/Loops.md",
+      "x": 293.5042419433594,
+      "y": 491.94805908203125
     },
     {
       "id": "Programing Languages/JavaScript/JavaScript Documentation/Printing Text.md",
-      "x": 527.069091796875,
-      "y": 770.8185424804688
+      "x": 354.1118469238281,
+      "y": 595.5138549804688
     },
     {
-      "id": "Programing Languages/Others/CSS Files/Text Styling.md",
-      "x": -898.4561767578125,
-      "y": -432.1246337890625
+      "id": "Programing Languages/JavaScript/JavaScript.md",
+      "x": 200.2696533203125,
+      "y": 567.4845581054688
     },
     {
-      "id": "Programing Languages/Others/CSS Files/Transitions & Effects.md",
-      "x": -855.6840209960938,
-      "y": -556.948486328125
-    },
-    {
-      "id": "Programing Languages/Others/CSS Files/Visual Styling.md",
-      "x": -1069.051513671875,
-      "y": -607.4210815429688
-    },
-    {
-      "id": "Programing Languages/Powershell/PowerShell Documentation/Comments.md",
-      "x": -413.7406311035156,
-      "y": 8.492887496948242
-    },
-    {
-      "id": "Programing Languages/Powershell/PowerShell Documentation/Functions.md",
-      "x": -301.0722351074219,
-      "y": -32.77247619628906
-    },
-    {
-      "id": "Programing Languages/Powershell/PowerShell Documentation/Printing Text.md",
-      "x": -404.64666748046875,
-      "y": 175.5977783203125
+      "id": "Programing Languages/JavaScript/Touch Events.md",
+      "x": 662.9666748046875,
+      "y": 740.173095703125
     },
     {
       "id": "Programing Languages/Kotlin/Kotlin Documentation/Comments.md",
-      "x": 142.13888549804688,
-      "y": 94.02178192138672
+      "x": -460.56170654296875,
+      "y": -300.9017028808594
     },
     {
       "id": "Programing Languages/Kotlin/Kotlin Documentation/Conditional.md",
-      "x": 220.95333862304688,
-      "y": 395.173828125
-    },
-    {
-      "id": "Programing Languages/Powershell/PowerShell Documentation/Loops.md",
-      "x": -495.0664978027344,
-      "y": 96.71537017822266
-    },
-    {
-      "id": "Programing Languages/Kotlin/Kotlin Documentation/Function.md",
-      "x": 166.39585876464844,
-      "y": 211.53439331054688
+      "x": -336.96319580078125,
+      "y": -49.0388069152832
     },
     {
       "id": "Programing Languages/Kotlin/Kotlin Documentation/Data containers.md",
-      "x": 262.958984375,
-      "y": 282.7730712890625
+      "x": -294.1186218261719,
+      "y": -161.1231231689453
+    },
+    {
+      "id": "Programing Languages/Kotlin/Kotlin Documentation/Function.md",
+      "x": -521.9318237304688,
+      "y": -98.37989807128906
     },
     {
       "id": "Programing Languages/Kotlin/Kotlin Documentation/Input.md",
-      "x": 274.292236328125,
-      "y": 159.03855895996094
+      "x": -344.62603759765625,
+      "y": -269.97314453125
     },
     {
       "id": "Programing Languages/Kotlin/Kotlin Documentation/Loops.md",
-      "x": 52.493812561035156,
-      "y": 173.79595947265625
-    },
-    {
-      "id": "Programing Languages/Others/CSS Files/Box & Layout.md",
-      "x": -955.3450317382812,
-      "y": -645.8713989257812
+      "x": -545.9524536132812,
+      "y": -216.61268615722656
     },
     {
       "id": "Programing Languages/Kotlin/Kotlin Documentation/Object-Oriented Programming.md",
-      "x": 25.607505798339844,
-      "y": 397.31524658203125
+      "x": -562.228515625,
+      "y": 14.634257316589355
     },
     {
       "id": "Programing Languages/Kotlin/Kotlin Documentation/Printing Text.md",
-      "x": -6.394838333129883,
-      "y": 278.3477783203125
+      "x": -635.58740234375,
+      "y": -136.83969116210938
     },
     {
       "id": "Programing Languages/Kotlin/Kotlin Documentation/Variable & Types.md",
-      "x": 124.0473403930664,
-      "y": 465.938232421875
+      "x": -442.4048156738281,
+      "y": 8.225868225097656
+    },
+    {
+      "id": "Programing Languages/Kotlin/Kotlin.md",
+      "x": -413.5802307128906,
+      "y": -149.8961639404297
+    },
+    {
+      "id": "Programing Languages/Others/CSS Files/Box & Layout.md",
+      "x": -1255.926025390625,
+      "y": -451.71978759765625
+    },
+    {
+      "id": "Programing Languages/Others/CSS Files/Text Styling.md",
+      "x": -1049.8614501953125,
+      "y": -352.8676452636719
+    },
+    {
+      "id": "Programing Languages/Others/CSS Files/Transitions & Effects.md",
+      "x": -1128.1978759765625,
+      "y": -443.7720031738281
+    },
+    {
+      "id": "Programing Languages/Others/CSS Files/Visual Styling.md",
+      "x": -1292.515625,
+      "y": -337.4379577636719
     },
     {
       "id": "Programing Languages/Others/CSS Frameworks/Bootstrap.md",
-      "x": -1016.564453125,
-      "y": -877.1962890625
+      "x": -1302.41943359375,
+      "y": -718.3870849609375
     },
     {
       "id": "Programing Languages/Others/CSS Frameworks/Bulma.md",
-      "x": -784.2447509765625,
-      "y": -906.8268432617188
+      "x": -1069.465576171875,
+      "y": -672.703369140625
     },
     {
       "id": "Programing Languages/Others/CSS Frameworks/DaisyUI.md",
-      "x": -950.6983642578125,
-      "y": -982.0887451171875
+      "x": -1219.67578125,
+      "y": -817.0599365234375
     },
     {
       "id": "Programing Languages/Others/CSS Frameworks/Making CSS Easier.md",
-      "x": -897.0904541015625,
-      "y": -866.0220336914062
+      "x": -1189.3328857421875,
+      "y": -678.2606201171875
     },
     {
       "id": "Programing Languages/Others/CSS Frameworks/Tailwind CSS.md",
-      "x": -835.4076538085938,
-      "y": -1015.3702392578125
+      "x": -1103.0518798828125,
+      "y": -788.8033447265625
     },
     {
-      "id": "Programing Languages/Others/Using_XML/XML with Android Studio.md",
-      "x": -721.951904296875,
-      "y": -208.98875427246094
-    },
-    {
-      "id": "Programing Languages/PHP/Php Documentation/Comments.md",
-      "x": 619.8829956054688,
-      "y": 276.44366455078125
-    },
-    {
-      "id": "Programing Languages/PHP/Php Documentation/Functions.md",
-      "x": 507.0204772949219,
-      "y": 235.68942260742188
-    },
-    {
-      "id": "Programing Languages/PHP/Php Documentation/Printing Text.md",
-      "x": 608.9590454101562,
-      "y": 395.9378662109375
-    },
-    {
-      "id": "Programing Languages/PHP/Php Documentation/Loops.md",
-      "x": 504.02996826171875,
-      "y": 454.1544189453125
-    },
-    {
-      "id": "Programing Languages/Verse/Verse Documentation/CONTENIDORS.md",
-      "x": -732.951416015625,
-      "y": 1044.2962646484375
-    },
-    {
-      "id": "Programing Languages/Verse/Verse Documentation/EXPRESIONS.md",
-      "x": -409.2963562011719,
-      "y": 782.0657958984375
-    },
-    {
-      "id": "Programing Languages/Verse/Verse Documentation/Functions.md",
-      "x": -501.7574157714844,
-      "y": 969.1581420898438
-    },
-    {
-      "id": "Programing Languages/Verse/Verse Documentation/Loops.md",
-      "x": -377.9832458496094,
-      "y": 1019.3377685546875
-    },
-    {
-      "id": "Programing Languages/Verse/Verse Documentation/Printing Text.md",
-      "x": -521.8086547851562,
-      "y": 823.7887573242188
-    },
-    {
-      "id": "Programing Languages/Verse/Verse Documentation/VARIABLES.md",
-      "x": -364.07147216796875,
-      "y": 1200.1778564453125
-    },
-    {
-      "id": "Programing Languages/Others/HTML Documentation/Day to Day Tags.md",
-      "x": -1105.819091796875,
-      "y": 621.23974609375
-    },
-    {
-      "id": "Programing Languages/Others/HTML Documentation/Forms.md",
-      "x": -1236.83203125,
-      "y": 206.30429077148438
-    },
-    {
-      "id": "Programing Languages/Others/HTML Documentation/Meta & Head Tags.md",
-      "x": -1032.58447265625,
-      "y": 164.0370635986328
-    },
-    {
-      "id": "Programing Languages/Others/HTML Documentation/Other tags.md",
-      "x": -889.8740844726562,
-      "y": 284.39312744140625
-    },
-    {
-      "id": "Programing Languages/Others/HTML Documentation/Semantic Tags.md",
-      "x": -1129.819580078125,
-      "y": 282.62152099609375
-    },
-    {
-      "id": "Programing Languages/Others/HTML Documentation/Input types.md",
-      "x": -1358.3944091796875,
-      "y": 189.77679443359375
-    },
-    {
-      "id": "Technologies/Docker/Commands/Commands.md",
-      "x": 299.84124755859375,
-      "y": -727.9043579101562
-    },
-    {
-      "id": "Technologies/Docker/Commands/Container management.md",
-      "x": 431.6614074707031,
-      "y": -677.467041015625
-    },
-    {
-      "id": "Technologies/Docker/Commands/General help.md",
-      "x": 324.7295227050781,
-      "y": -610.514404296875
-    },
-    {
-      "id": "Technologies/Docker/Commands/Image management.md",
-      "x": 197.83612060546875,
-      "y": -663.9579467773438
-    },
-    {
-      "id": "Technologies/Docker/Commands/Docker compose.md",
-      "x": 182.16758728027344,
-      "y": -784.9892578125
-    },
-    {
-      "id": "Programing Languages/Python/Python Documentation/Conditional.md",
-      "x": 165.0968780517578,
-      "y": 1177.53369140625
-    },
-    {
-      "id": "Programing Languages/Python/Python Documentation/Data Containers.md",
-      "x": 741.4114990234375,
-      "y": 1062.6785888671875
-    },
-    {
-      "id": "Programing Languages/Python/Python Documentation/Functions.md",
-      "x": 402.7367248535156,
-      "y": 1210.937255859375
-    },
-    {
-      "id": "Programing Languages/Python/Python Documentation/Comments.md",
-      "x": 350.3620910644531,
-      "y": 1095.61767578125
-    },
-    {
-      "id": "Programing Languages/Python/Python Documentation/Loops.md",
-      "x": 365.7757263183594,
-      "y": 1325.0972900390625
-    },
-    {
-      "id": "Programing Languages/Python/Python Documentation/Printing Text.md",
-      "x": 246.49667358398438,
-      "y": 1338.1466064453125
-    },
-    {
-      "id": "Programing Languages/Others/MarkDown Files/Blockquotes.md",
-      "x": -1177.410400390625,
-      "y": -157.99395751953125
-    },
-    {
-      "id": "Programing Languages/Others/MarkDown Files/Emphasis.md",
-      "x": -1376.854248046875,
-      "y": -221.45703125
-    },
-    {
-      "id": "Programing Languages/Others/MarkDown Files/Links and Images.md",
-      "x": -1277.1199951171875,
-      "y": -432.1783752441406
-    },
-    {
-      "id": "Programing Languages/Others/MarkDown Files/Lists.md",
-      "x": -1116.402099609375,
-      "y": -261.88623046875
-    },
-    {
-      "id": "Programing Languages/Others/MarkDown Files/Perks.md",
-      "x": -1294.93798828125,
-      "y": -133.77310180664062
-    },
-    {
-      "id": "Programing Languages/Others/MarkDown Files/Tables.md",
-      "x": -1352.726318359375,
-      "y": -338.9985046386719
-    },
-    {
-      "id": "Programing Languages/Others/MarkDown Files/Titles.md",
-      "x": -1177.63330078125,
-      "y": -365.0870666503906
-    },
-    {
-      "id": "Technologies/React/Essentials Files/Usefull NPM packages.md",
-      "x": -295.6227722167969,
-      "y": -1335.0526123046875
-    },
-    {
-      "id": "Programing Languages/Verse/Verse Documentation/VARAIBLES EXPLANATION/COMUNS.md",
-      "x": -281.0396423339844,
-      "y": 1301.752685546875
-    },
-    {
-      "id": "Programing Languages/Verse/Verse Documentation/VARAIBLES EXPLANATION/CONSTANTS i VARIABLES.md",
-      "x": -408.1395263671875,
-      "y": 1317.572265625
-    },
-    {
-      "id": "Programing Languages/Verse/Verse Documentation/CONTAINER EXPLANATIONS/Array.md",
-      "x": -770.27294921875,
-      "y": 1177.9910888671875
-    },
-    {
-      "id": "Programing Languages/Verse/Verse Documentation/CONTAINER EXPLANATIONS/Map.md",
-      "x": -854.5899658203125,
-      "y": 978.48388671875
-    },
-    {
-      "id": "Programing Languages/Verse/Verse Documentation/CONTAINER EXPLANATIONS/Option.md",
-      "x": -747.103515625,
-      "y": 925.1356201171875
-    },
-    {
-      "id": "Programing Languages/Verse/Verse Documentation/CONTAINER EXPLANATIONS/Range.md",
-      "x": -860.0350341796875,
-      "y": 1098.3565673828125
-    },
-    {
-      "id": "Programing Languages/Verse/Verse Documentation/CONTAINER EXPLANATIONS/Tuple.md",
-      "x": -657.3270263671875,
-      "y": 1137.4661865234375
-    },
-    {
-      "id": "Programing Languages/Python/Python Documentation/Data Container Files/Dict.md",
-      "x": 743.462646484375,
-      "y": 1182.66015625
-    },
-    {
-      "id": "Programing Languages/Python/Python Documentation/Data Container Files/Frozenset.md",
-      "x": 636.374267578125,
-      "y": 1120.676513671875
-    },
-    {
-      "id": "Programing Languages/Python/Python Documentation/Data Container Files/List.md",
-      "x": 849.4267578125,
-      "y": 1126.3499755859375
-    },
-    {
-      "id": "Programing Languages/Python/Python Documentation/Data Container Files/Set.md",
-      "x": 789.1268920898438,
-      "y": 952.5863647460938
-    },
-    {
-      "id": "Programing Languages/Python/Python Documentation/Data Container Files/Tuple.md",
-      "x": 892.2406616210938,
-      "y": 1014.251220703125
-    },
-    {
-      "id": "Programing Languages/Python/Python Documentation/Data Container Files/Variables & Types.md",
-      "x": 135.03741455078125,
-      "y": 1293.7039794921875
+      "id": "Programing Languages/Others/CSS.md",
+      "x": -1167.7518310546875,
+      "y": -330.4796142578125
     },
     {
       "id": "Programing Languages/Others/HTML Documentation/Day to Day Files/Divs.md",
-      "x": -1161.1856689453125,
-      "y": 510.99676513671875
+      "x": -1083.025390625,
+      "y": 843.0770874023438
     },
     {
       "id": "Programing Languages/Others/HTML Documentation/Day to Day Files/Images.md",
-      "x": -1104.1883544921875,
-      "y": 763.1251220703125
+      "x": -1009.8419189453125,
+      "y": 1110.3028564453125
     },
     {
       "id": "Programing Languages/Others/HTML Documentation/Day to Day Files/Line Break & Separator.md",
-      "x": -1041.522705078125,
-      "y": 519.9231567382812
-    },
-    {
-      "id": "Programing Languages/Others/HTML Documentation/Day to Day Files/Lists.md",
-      "x": -946.1340942382812,
-      "y": 592.7238159179688
+      "x": -965.1058349609375,
+      "y": 820.8411254882812
     },
     {
       "id": "Programing Languages/Others/HTML Documentation/Day to Day Files/Links.md",
-      "x": -1003.2354125976562,
-      "y": 698.2633056640625
+      "x": -919.4413452148438,
+      "y": 1031.398681640625
+    },
+    {
+      "id": "Programing Languages/Others/HTML Documentation/Day to Day Files/Lists.md",
+      "x": -890.6165161132812,
+      "y": 914.9158325195312
     },
     {
       "id": "Programing Languages/Others/HTML Documentation/Day to Day Files/Paragraphs.md",
-      "x": -1208.3277587890625,
-      "y": 703.5120849609375
+      "x": -1106.252685546875,
+      "y": 1038.862548828125
     },
     {
       "id": "Programing Languages/Others/HTML Documentation/Day to Day Files/Titles.md",
-      "x": -1250.4744873046875,
-      "y": 591.159912109375
+      "x": -1162.5833740234375,
+      "y": 932.908935546875
+    },
+    {
+      "id": "Programing Languages/Others/HTML Documentation/Day to Day Tags.md",
+      "x": -1018.929443359375,
+      "y": 944.5238037109375
+    },
+    {
+      "id": "Programing Languages/Others/HTML Documentation/Forms.md",
+      "x": -1265.7547607421875,
+      "y": 545.04248046875
+    },
+    {
+      "id": "Programing Languages/Others/HTML Documentation/Input types.md",
+      "x": -1385.0654296875,
+      "y": 532.2056884765625
+    },
+    {
+      "id": "Programing Languages/Others/HTML Documentation/Meta & Head Tags.md",
+      "x": -1098.466064453125,
+      "y": 479.46649169921875
+    },
+    {
+      "id": "Programing Languages/Others/HTML Documentation/Other tags.md",
+      "x": -952.6729125976562,
+      "y": 549.3224487304688
+    },
+    {
+      "id": "Programing Languages/Others/HTML Documentation/Semantic Tags.md",
+      "x": -1171.6099853515625,
+      "y": 647.2230224609375
+    },
+    {
+      "id": "Programing Languages/Others/HTML.md",
+      "x": -1063.884033203125,
+      "y": 594.3695678710938
+    },
+    {
+      "id": "Programing Languages/Others/JSON.md",
+      "x": -906.8657836914062,
+      "y": 257.71429443359375
+    },
+    {
+      "id": "Programing Languages/Others/MarkDown Files/Blockquotes.md",
+      "x": -1336.6314697265625,
+      "y": 169.72032165527344
+    },
+    {
+      "id": "Programing Languages/Others/MarkDown Files/Emphasis.md",
+      "x": -1523.99169921875,
+      "y": 97.14624786376953
+    },
+    {
+      "id": "Programing Languages/Others/MarkDown Files/Links and Images.md",
+      "x": -1446.57763671875,
+      "y": -117.1874008178711
+    },
+    {
+      "id": "Programing Languages/Others/MarkDown Files/Lists.md",
+      "x": -1286.984130859375,
+      "y": 60.47288131713867
+    },
+    {
+      "id": "Programing Languages/Others/MarkDown Files/Perks.md",
+      "x": -1454.0140380859375,
+      "y": 194.62362670898438
+    },
+    {
+      "id": "Programing Languages/Others/MarkDown Files/Tables.md",
+      "x": -1520.67041015625,
+      "y": -22.80017852783203
+    },
+    {
+      "id": "Programing Languages/Others/MarkDown Files/Titles.md",
+      "x": -1343.5728759765625,
+      "y": -55.631710052490234
+    },
+    {
+      "id": "Programing Languages/Others/MarkDown.md",
+      "x": -1406.5994873046875,
+      "y": 50.95478820800781
+    },
+    {
+      "id": "Programing Languages/Others/Others.md",
+      "x": -868.1646118164062,
+      "y": 144.13385009765625
+    },
+    {
+      "id": "Programing Languages/Others/Using_XML/XML with Android Studio.md",
+      "x": -1108.5057373046875,
+      "y": -9.25646686553955
+    },
+    {
+      "id": "Programing Languages/Others/XML.md",
+      "x": -1043.787109375,
+      "y": 91.7918701171875
+    },
+    {
+      "id": "XPath",
+      "x": -1003.9453125,
+      "y": -68.13402557373047
+    },
+    {
+      "id": "XQuery",
+      "x": -939.229736328125,
+      "y": 32.916866302490234
+    },
+    {
+      "id": "Programing Languages/PHP/PHP.md",
+      "x": -549.3045654296875,
+      "y": 385.0581970214844
+    },
+    {
+      "id": "Programing Languages/PHP/Php Documentation/Comments.md",
+      "x": -432.69891357421875,
+      "y": 413.3291931152344
+    },
+    {
+      "id": "Programing Languages/PHP/Php Documentation/Functions.md",
+      "x": -669.1024780273438,
+      "y": 391.8253479003906
+    },
+    {
+      "id": "Programing Languages/PHP/Php Documentation/Loops.md",
+      "x": -618.6903076171875,
+      "y": 508.6600646972656
+    },
+    {
+      "id": "Programing Languages/PHP/Php Documentation/Printing Text.md",
+      "x": -499.7507629394531,
+      "y": 524.5604858398438
+    },
+    {
+      "id": "Programing Languages/Powershell/Commands.md",
+      "x": 135.499267578125,
+      "y": -201.01510620117188
+    },
+    {
+      "id": "Programing Languages/Powershell/PowerShell Documentation/Comments.md",
+      "x": -66.80098724365234,
+      "y": -209.25634765625
+    },
+    {
+      "id": "Programing Languages/Powershell/PowerShell Documentation/Functions.md",
+      "x": 36.97089385986328,
+      "y": -269.5128173828125
+    },
+    {
+      "id": "Programing Languages/Powershell/PowerShell Documentation/Loops.md",
+      "x": -58.5968017578125,
+      "y": -38.441402435302734
+    },
+    {
+      "id": "Programing Languages/Powershell/PowerShell Documentation/Printing Text.md",
+      "x": 131.87872314453125,
+      "y": -81.06959533691406
+    },
+    {
+      "id": "Programing Languages/Powershell/Powershell.md",
+      "x": 21.3905029296875,
+      "y": -127.88262939453125
+    },
+    {
+      "id": "Programing Languages/Programing languages.md",
+      "x": -192.8852996826172,
+      "y": 234.1351318359375
+    },
+    {
+      "id": "Programing Languages/Python/Python Documentation/Comments.md",
+      "x": 522.5223999023438,
+      "y": 957.7207641601562
+    },
+    {
+      "id": "Programing Languages/Python/Python Documentation/Conditional.md",
+      "x": 352.9155578613281,
+      "y": 1063.24658203125
+    },
+    {
+      "id": "Programing Languages/Python/Python Documentation/Data Container Files/Dict.md",
+      "x": 804.6445922851562,
+      "y": 1190.456787109375
+    },
+    {
+      "id": "Programing Languages/Python/Python Documentation/Data Container Files/Frozenset.md",
+      "x": 870.5769653320312,
+      "y": 963.3873901367188
+    },
+    {
+      "id": "Programing Languages/Python/Python Documentation/Data Container Files/List.md",
+      "x": 924.3470458984375,
+      "y": 1198.84521484375
+    },
+    {
+      "id": "Programing Languages/Python/Python Documentation/Data Container Files/Set.md",
+      "x": 989.1622314453125,
+      "y": 981.7355346679688
+    },
+    {
+      "id": "Programing Languages/Python/Python Documentation/Data Container Files/Tuple.md",
+      "x": 994.6555786132812,
+      "y": 1101.6051025390625
+    },
+    {
+      "id": "Programing Languages/Python/Python Documentation/Data Container Files/Variables & Types.md",
+      "x": 411.1250915527344,
+      "y": 1171.5958251953125
+    },
+    {
+      "id": "Programing Languages/Python/Python Documentation/Data Containers.md",
+      "x": 857.3461303710938,
+      "y": 1082.651611328125
+    },
+    {
+      "id": "Programing Languages/Python/Python Documentation/Functions.md",
+      "x": 592.8270263671875,
+      "y": 1064.665771484375
+    },
+    {
+      "id": "Programing Languages/Python/Python Documentation/Loops.md",
+      "x": 571.0913696289062,
+      "y": 1182.6759033203125
+    },
+    {
+      "id": "Programing Languages/Python/Python Documentation/Printing Text.md",
+      "x": 484.9409484863281,
+      "y": 1266.2027587890625
+    },
+    {
+      "id": "Programing Languages/Python/Python.md",
+      "x": 472.8497009277344,
+      "y": 1066.94775390625
+    },
+    {
+      "id": "Programing Languages/Swift/Swift.md",
+      "x": -521.2555541992188,
+      "y": 1007.4948120117188
+    },
+    {
+      "id": "Programing Languages/Swift/Swift Documentation/Variables & Types",
+      "x": -506.41253662109375,
+      "y": 1177.16259765625
+    },
+    {
+      "id": "Programing Languages/Swift/Swift Documentation/Data Containers",
+      "x": -626.102294921875,
+      "y": 1185.6805419921875
+    },
+    {
+      "id": "Programing Languages/Verse/Verse Documentation/CONTAINER EXPLANATIONS/Array.md",
+      "x": -146.93093872070312,
+      "y": 1482.3927001953125
+    },
+    {
+      "id": "Programing Languages/Verse/Verse Documentation/CONTAINER EXPLANATIONS/Map.md",
+      "x": -258.1026611328125,
+      "y": 1328.747802734375
+    },
+    {
+      "id": "Programing Languages/Verse/Verse Documentation/CONTAINER EXPLANATIONS/Option.md",
+      "x": -152.9075469970703,
+      "y": 1236.267578125
+    },
+    {
+      "id": "Programing Languages/Verse/Verse Documentation/CONTAINER EXPLANATIONS/Range.md",
+      "x": -262.0963134765625,
+      "y": 1448.6781005859375
+    },
+    {
+      "id": "Programing Languages/Verse/Verse Documentation/CONTAINER EXPLANATIONS/Tuple.md",
+      "x": -41.63925552368164,
+      "y": 1424.830078125
+    },
+    {
+      "id": "Programing Languages/Verse/Verse Documentation/CONTENIDORS.md",
+      "x": -139.59591674804688,
+      "y": 1355.517578125
+    },
+    {
+      "id": "Programing Languages/Verse/Verse Documentation/EXPRESIONS.md",
+      "x": -129.90875244140625,
+      "y": 814.7969970703125
+    },
+    {
+      "id": "Programing Languages/Verse/Verse Documentation/Functions.md",
+      "x": 13.603254318237305,
+      "y": 987.2387084960938
+    },
+    {
+      "id": "Programing Languages/Verse/Verse Documentation/Loops.md",
+      "x": 92.69788360595703,
+      "y": 896.7344360351562
+    },
+    {
+      "id": "Programing Languages/Verse/Verse Documentation/Printing Text.md",
+      "x": -110.84707641601562,
+      "y": 956.5906372070312
+    },
+    {
+      "id": "Programing Languages/Verse/Verse Documentation/VARAIBLES EXPLANATION/COMUNS.md",
+      "x": 231.6553192138672,
+      "y": 1319.580078125
+    },
+    {
+      "id": "Programing Languages/Verse/Verse Documentation/VARAIBLES EXPLANATION/CONSTANTS i VARIABLES.md",
+      "x": 113.36505889892578,
+      "y": 1339.72900390625
+    },
+    {
+      "id": "Programing Languages/Verse/Verse Documentation/VARIABLES.md",
+      "x": 120.49336242675781,
+      "y": 1198.4044189453125
+    },
+    {
+      "id": "Programing Languages/Verse/Verse.md",
+      "x": -24.896705627441406,
+      "y": 872.85498046875
     },
     {
       "id": "Readme.md",
-      "x": 353.3985595703125,
-      "y": -184.65298461914062
+      "x": 606.5746459960938,
+      "y": -67.02760314941406
+    },
+    {
+      "id": "Technologies/Django/DJANGO.md",
+      "x": 240.76100158691406,
+      "y": -541.7266235351562
+    },
+    {
+      "id": "Technologies/Docker/Commands/Commands.md",
+      "x": -269.12457275390625,
+      "y": -1242.46240234375
+    },
+    {
+      "id": "Technologies/Docker/Commands/Container management.md",
+      "x": -328.73590087890625,
+      "y": -1138.3223876953125
+    },
+    {
+      "id": "Technologies/Docker/Commands/Docker compose.md",
+      "x": -253.8100128173828,
+      "y": -1370.207275390625
+    },
+    {
+      "id": "Technologies/Docker/Commands/General help.md",
+      "x": -396.5495300292969,
+      "y": -1246.2335205078125
+    },
+    {
+      "id": "Technologies/Docker/Commands/Image management.md",
+      "x": -373.6479797363281,
+      "y": -1364.0252685546875
+    },
+    {
+      "id": "Technologies/Docker/Docker.md",
+      "x": -103.55821228027344,
+      "y": -918.871337890625
+    },
+    {
+      "id": "Technologies/Electron/CRUD with Electron.md",
+      "x": 397.3290710449219,
+      "y": -857.0625610351562
+    },
+    {
+      "id": "Technologies/Electron/Electron.md",
+      "x": 314.812744140625,
+      "y": -769.9357299804688
+    },
+    {
+      "id": "Technologies/Electron/Generate a .exe.md",
+      "x": 422.51422119140625,
+      "y": -717.0241088867188
+    },
+    {
+      "id": "Technologies/Flask/Flask.md",
+      "x": 114.14046478271484,
+      "y": -741.9153442382812
+    },
+    {
+      "id": "Technologies/Laravel/Laravel.md",
+      "x": 116.62326049804688,
+      "y": -555.6011962890625
+    },
+    {
+      "id": "Technologies/Node/NODE.md",
+      "x": 39.75865936279297,
+      "y": -647.7505493164062
+    },
+    {
+      "id": "Technologies/React/Essentials Files/Usefull NPM packages.md",
+      "x": 36.36514663696289,
+      "y": -1376.057373046875
+    },
+    {
+      "id": "Technologies/React/Hooks.md",
+      "x": 245.37454223632812,
+      "y": -1104.650146484375
+    },
+    {
+      "id": "Technologies/React/Project Structure.md",
+      "x": 257.720947265625,
+      "y": -1320.2447509765625
+    },
+    {
+      "id": "Technologies/React/React Essentials.md",
+      "x": 159.09945678710938,
+      "y": -1188.041015625
+    },
+    {
+      "id": "Styling",
+      "x": 23.389631271362305,
+      "y": -1256.7677001953125
+    },
+    {
+      "id": "State Management",
+      "x": 133.18032836914062,
+      "y": -1305.1796875
+    },
+    {
+      "id": "Data Fetching",
+      "x": 183.15965270996094,
+      "y": -1414.26220703125
+    },
+    {
+      "id": "Testing",
+      "x": -1.3053216934204102,
+      "y": -1139.3465576171875
+    },
+    {
+      "id": "Dev tools",
+      "x": 303.803466796875,
+      "y": -1209.45703125
+    },
+    {
+      "id": "Technologies/React/React.md",
+      "x": 146.62564086914062,
+      "y": -923.218017578125
+    },
+    {
+      "id": "Technologies/React/Routing.md",
+      "x": 103.84666442871094,
+      "y": -1081.5352783203125
+    },
+    {
+      "id": "Technologies/Technologies.md",
+      "x": 193.74447631835938,
+      "y": -652.1268310546875
+    },
+    {
+      "id": "Programing Languages/Swift/Swift Documentation/Printing Text.md",
+      "x": -631.5668334960938,
+      "y": 1065.8114013671875
+    },
+    {
+      "id": "Programing Languages/Swift/Swift Documentation/Conditional.md",
+      "x": -428.2573547363281,
+      "y": 1086.1124267578125
+    },
+    {
+      "id": "Programing Languages/Swift/Swift Documentation/Comments.md",
+      "x": -519.9512329101562,
+      "y": 886.8094482421875
+    },
+    {
+      "id": "Programing Languages/Swift/Swift Documentation/Loops.md",
+      "x": -412.3450012207031,
+      "y": 957.1229858398438
+    },
+    {
+      "id": "Programing Languages/Swift/Swift Documentation/Functions.md",
+      "x": -624.3187255859375,
+      "y": 946.032470703125
     }
   ],
   "automaticallyRestoreNodePositions": true
